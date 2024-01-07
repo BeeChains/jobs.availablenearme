@@ -1,5 +1,7 @@
 # jobs.availablenearme
-Your New Job is to Build &amp; Own the New Internet with Handshake Domains.
+Your New Job is to Build, Build, Build The New Internet! Owning the Internet is a Full Time Job. 
+Learn about: [Handshake](https://handshake.org) Domains
+Learn about Inner I Network: [About Inner I Company](https://innerinetcompany.com/about/)
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJF8Z043FY"></script>
