@@ -24,6 +24,6 @@ Owning the Internet, a Full Time Job
 
 - Learn about: [Handshake](https://handshake.org) Domains
 - Learn about Inner I Network: [About Inner I Company](https://innerinetcompany.com/about/)
-- 
+
 
 Interested in this SPACE contact [@innerinetco](https://twitter.com/innerinetco) or [Inner I Network](https://innerinetwork.hns.to/)
