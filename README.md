@@ -1,6 +1,6 @@
 # jobs.availablenearme
 Your New Job is to Build, Build, Build The New Internet! Owning the Internet is a Full Time Job. 
-Owning the Internet, a Full Time Job
+
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJF8Z043FY"></script>
