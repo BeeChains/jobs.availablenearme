@@ -13,14 +13,14 @@ Owning the Internet, a Full Time Job
 </script>
 </head>
 <h3>Become a Handshake Director Now!</h3>
-</hgroup>
+
 <p>Become part of the revolution in internet domain ownership. As a Handshake Director, you have the opportunity to own root level domains and shape the future of the web.</p>
                 
 <h3>Why Handshake?</h3>
 <p>Handshake offers a unique approach to domain name management, decentralizing the DNS root domains and putting the power back in the hands of users.</p>
 <h3>Join Us</h3>
 <p>Empower yourself and others in owning a piece of the internet.</p>
-</section>
+
 
 - Learn about: [Handshake](https://handshake.org) Domains
 - Learn about Inner I Network: [About Inner I Company](https://innerinetcompany.com/about/)
