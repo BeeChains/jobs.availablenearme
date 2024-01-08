@@ -11,6 +11,7 @@ Your New Job is to Build, Build, Build The New Internet! Owning the Internet is 
 
   gtag('config', 'G-XJF8Z043FY');
 </script>
+<meta name="ahrefs-site-verification" content="807eba05a39171dea2c7a82ef5ba2fac5f37465aca1aefb071c040c2a8993090">
 </head>
 <h3>Become a Handshake Director Now!</h3>
 
