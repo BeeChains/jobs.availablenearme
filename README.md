@@ -1,5 +1,7 @@
 # jobs.availablenearme
-Your New Job is to Build, Build, Build The New Internet! Owning the Internet is a Full Time Job. 
+New job: Build, Build, Build The New Internet! Owning the Internet is a full time job.
+
+Keyword optimized domain names could be the best SEO tools.
 
 <head>
 <!-- Google tag (gtag.js) -->
@@ -13,7 +15,7 @@ Your New Job is to Build, Build, Build The New Internet! Owning the Internet is 
 </script>
 <meta name="ahrefs-site-verification" content="807eba05a39171dea2c7a82ef5ba2fac5f37465aca1aefb071c040c2a8993090">
 </head>
-<h3>Become a Handshake Director Now!</h3>
+<h3>Start Today: Become a Handshake Director Now!</h3>
 
 <p>Become part of the revolution in internet domain ownership. As a Handshake Director, you have the opportunity to own root level domains and shape the future of the web.</p>
                 
