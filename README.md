@@ -29,8 +29,11 @@ Dive into a world where your skills contribute to the decentralization of the we
 <p>Empower yourself and others in owning a piece of the internet.</p>
 
 
-- Learn about: [Handshake](https://handshake.org) Domains
+- Learn about: [Handshake](https://handshake.org) Domains (decentralized root of the internet)
+- Get involved: [Bittensor](https://bittensor.com) (decentralized artificial intelligence network)
 - Learn about Inner I Network: [About Inner I Company](https://innerinetcompany.com/about/)
+- About The Root Zone on ($AR) PermaWeb: [Perma.TheRootZone/](http://perma.therootzone.hns.to/)
+- Learn about the root zone of the internet on ($HNS) Handshake: [TheRootZone/](http://dnssecuritygroup.therootzone.hns.to/)
 
 
 Interested in this SPACE contact [@innerinetco](https://twitter.com/innerinetco) or [Inner I Network](https://innerinetwork.hns.to/)
