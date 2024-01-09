@@ -2,7 +2,6 @@
 New job: Build, Build, Build The New Internet! Owning the Internet is a full time job.
 
 Keyword optimized domain names could be the best SEO tools.
-
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJF8Z043FY"></script>
@@ -15,6 +14,11 @@ Keyword optimized domain names could be the best SEO tools.
 </script>
 <meta name="ahrefs-site-verification" content="807eba05a39171dea2c7a82ef5ba2fac5f37465aca1aefb071c040c2a8993090">
 </head>
+Welcome to jobs.availablenearme/, the forefront destination for pioneering opportunities in building decentralized networks. Our platform specializes in connecting talented individuals with cutting-edge jobs in the realms of Handshake, Bittensor, and beyond. Here, not only do we feature opportunities in establishing robust DNS and TLDs for a decentralized web, but we also lead the way in AI and GPT development.
+
+Embrace the chance to be part of a revolutionary movement towards a decentralized internet. Whether you're an experienced dev in blockchain technology, a visionary in decentralized networks, or a GPT enthusiast keen on developing custom AI solutions, we offer a gateway to transformative career paths. Our job listings will be carefully curated to ensure they align with the spirit of TAO – or Technology, Accessibility, and Opportunity – providing a unique blend of innovation and inclusivity.
+
+Dive into a world where your skills contribute to the decentralization of the web and the advancement of AI technologies. At jobs.availablenearme.hns.to/, we don't just connect you with jobs – we connect you with the future of the internet. Start your journey with us today and be a part of building the decentralized networks that will shape tomorrow.
 <h3>Start Today: Become a Handshake Director Now!</h3>
 
 <p>Become part of the revolution in internet domain ownership. As a Handshake Director, you have the opportunity to own root level domains and shape the future of the web.</p>
