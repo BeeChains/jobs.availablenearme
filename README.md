@@ -1,4 +1,4 @@
-# jobs.availablenearme
+# jobs.availablenearme | jobs available near me
 New job: Build, Build, Build The New Internet! Owning the Internet is a full time job.
 
 Keyword optimized domain names could be the best SEO tools.
