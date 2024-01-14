@@ -1,5 +1,5 @@
 # jobs available near me
-New Jobs for Full Time job near me or Part Time job near me Build, Build, Build The New Internet! Owning the Internet is a full time job.
+Indeed there are many New Jobs for Full Time job near me or Part Time job near me Build, Build, Build The New Internet! Owning and Building the New Internet is a job.
 
 Keyword optimized domain names could be the best SEO tools.
 <head>
